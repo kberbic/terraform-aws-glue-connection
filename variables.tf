@@ -1,4 +1,5 @@
 variable "name" {}
-variable "connectionString" {}
+variable "jdbc" {}
+variable "database" {}
 variable "password" {}
 variable "username" {}
